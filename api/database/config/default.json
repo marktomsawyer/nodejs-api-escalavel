@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "banco": "agenda-petshop",
+        "usuario" : "root",
+        "senha" : "root",
+        "host" : "localhost",
+        "porta" : "3308"
+    },
+    "api" : {
+
+        "porta" : 3000
+    }
+}
